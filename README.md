@@ -56,3 +56,22 @@ Database
    spring.datasource.password=your_password
 
 3. mvn spring-boot:run
+
+## Swagger Documentation
+
+After starting the application, open:
+http://localhost:8080/swagger-ui/index.html
+
+
+Swagger UI allows you to view and test all available REST API endpoints.
+
+## Future Improvements
+
+- Add Spring Security with JWT authentication
+- Add role-based authorization
+- Add pagination and sorting
+- Add unit testing
+
+## Author
+
+Vaishali Dubariya
